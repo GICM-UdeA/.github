@@ -11,10 +11,10 @@ Revise las los enlaces que se han marcado como "Guía" si no está muy familiari
 3. [Finalizar sus contribuciones](#after)
 
 ### <a name="Bug?"></a> ¿Tiene una propuesta, encontró algún Bug o tienes alguna pregunta? 
-Abra un `issue` qué describa el problema lo mejor posible y asigne trate de asignar las etiquitas adecuadas( https://github.com/GICM-UdeA/.github-private/labels/bug, https://github.com/GICM-UdeA/.github-private/labels/enhancement, https://github.com/GICM-UdeA/.github-private/labels/documentation, https://github.com/GICM-UdeA/.github-private/labels/question, etc. De esta forma se podrán analizar las priorizades para tratar de dar solución lo antes posible.
+Abra un `issue` qué describa el problema lo mejor posible y asigne trate de asignar las etiquitas adecuadas( https://github.com/GICM-UdeA/.github-private/labels/bug, https://github.com/GICM-UdeA/.github-private/labels/enhancement, https://github.com/GICM-UdeA/.github-private/labels/documentation, https://github.com/GICM-UdeA/.github-private/labels/question, etc. De esta forma se podrán analizar las prioridades para tratar de dar solución lo antes posible.
 
 ### <a name="issue"></a> Lineamiento para resolver un issue
-Con base al `issue` relacionado cree una nueva rama, anteponiendo al nombre de la rama la etiqueta correspondiente. No es necesario hacer Fork al repositorio, solo debería tener presente:
+Con base al `issue` relacionado cree una nueva rama, anteponiendo al nombre de la rama la etiqueta correspondiente. Si usted es miembro de la organización **no es necesario hacer Fork al repositorio**, solo debería tener presente:
 * No publicar los cambios directamente en la rama principal.
 * Comentar apropiadamente sus implementaciones.
 * Si sus cambios afectan directamente las aplicaciones existentes, actualice o añada la documentación relevante.
