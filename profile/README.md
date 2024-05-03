@@ -1,9 +1,13 @@
-## Hi there 👋
+# ¡Bienvenido al repositorio del GICM de la Universidad de Antioquia!
 
-**Here are some ideas to get you started:**
+El grupo está enfocado en diseñar, construir y adaptar tecnologías para su aplicación en sistemas de medición e investigación. Hemos creado este repositorio como medio para organizar y almacenar los códigos y recursos que desarrollamos.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+En este espacio, encontrarás una variedad de repositorios. Te invitamos a explorarlos para conocer nuestras contribuciones al fascinante mundo de la instrumentación científica.
+
+## 📚 Recursos útiles:
+En el repositorio [RESOURCES](https://github.com/GICM-UdeA/RESOURCES), encontrarás guías, tutoriales cortos con referencias a material de apoyo, y algunos códigos plantilla que podrás usar.
+
+## 👩‍💻 Contribuciones:
+¡Nos encantaría que contribuyeras con tus conocimientos! Por favor, revisa nuestras pautas de contribución en [CONTRIBUTING](https://github.com/GICM-UdeA/.github/blob/main/CONTRIBUTING.md) antes de enviar tus aportes. 
+
+¡Esperamos que disfrutes de los recursos educativos y te animes a explorar el emocionante mundo de la instrumentación científica! Si tienes alguna pregunta, no dudes en ponerte en contacto con nosotros a través de un correo electrónico [grupo.instrumentacym@udea.edu.co](grupo.instrumentacym@udea.edu.co) o abriendo un `issue`. 
